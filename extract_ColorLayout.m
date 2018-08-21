@@ -17,7 +17,7 @@ function features  = extract_ColorLayout(img, blocks)
 %      features : extracted color layout feature
 
 
-% Paria Yousefi 11/05/2018
+% Paria Yousefi 11/08/2018
 % -------------------------------------------------------------------------
 % -------------------------------------------------------------------------
 
