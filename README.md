@@ -7,7 +7,7 @@
 
  **If you use this code, please cite this paper:**
  
-        Budget-constrained Online Video Summarisation of Egocentric Video
         Yousefi, Paria and Matthews, Clare E. and Kuncheva, Ludmila I. 
+        "Budget-constrained Online Video Summarisation of Egocentric Video"
         International Symposium on Visual Computing (ISVC 2018), USA
 
